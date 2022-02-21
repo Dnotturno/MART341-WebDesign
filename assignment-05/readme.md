@@ -3,5 +3,5 @@ I decided to view an older version of YouTube as it's a site that I use everyday
 Current-day YouTube is a lot cleaner and does a lot better job of filtering based on user preferences and search/watch history as their technology has improved.
 
 Link to your screenshot using a relative URL.
-![Assignment 05 Screenshot 01](./images/assignment-05-screenshot-01.png)
-![Assignment 05 Screenshot 02](./images/assignment-05-screenshot-02.png)
+![Assignment 05 Screenshot 01](./img/assignment-05-screenshot-01.png)
+![Assignment 05 Screenshot 02](./img/assignment-05-screenshot-02.png)
