@@ -4,5 +4,5 @@ Semantic markup is in reference to elements that emphasize and enhance the meani
 
 Link to your screenshot using a relative URL.
 ![Assignment 06 Screenshot 01](./img/assignment-06-screenshot-01.png)
-![Assignment 06 Screenshot 01](./img/assignment-06-screenshot-02.png)
-![Assignment 06 Screenshot 01](./img/assignment-06-screenshot-03.png)
+![Assignment 06 Screenshot 02](./img/assignment-06-screenshot-02.png)
+![Assignment 06 Screenshot 03](./img/assignment-06-screenshot-03.png)
