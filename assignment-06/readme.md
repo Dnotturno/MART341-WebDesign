@@ -3,6 +3,6 @@ Structural markup is a means of organizing information in a document through str
 Semantic markup is in reference to elements that emphasize and enhance the meaning of certain portions of a document such as using quotations, links, strike throughs, italics, etc.
 
 Link to your screenshot using a relative URL.
-![Assignment 06 Screenshot 01](./img/assignment-06-screenshot-01.png)
-![Assignment 06 Screenshot 02](./img/assignment-06-screenshot-02.png)
-![Assignment 06 Screenshot 03](./img/assignment-06-screenshot-03.png)
+![Assignment 06 Screenshot 01](./image/assignment-06-screenshot-01.png)
+![Assignment 06 Screenshot 02](./image/assignment-06-screenshot-02.png)
+![Assignment 06 Screenshot 03](./image/assignment-06-screenshot-03.png)
