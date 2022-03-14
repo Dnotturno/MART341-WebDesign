@@ -7,5 +7,5 @@ What are the advantages and disadvantages of using a third-party service like Yo
 Optional: What challenges did you face this week with this assignment? How did you overcome them?
   The tutorial was extremely helpful in solving problems, especially when it came to embed links from SoundCloud and YouTube. The process taught me to be more thoughtful with what I pasted into
   my code to ensure that I closed any extra elements or changed information to work with my website.
-  ![Assignment 08 Screenshot 01](./img/assign8image1.jpg)
-  ![Assignment 08 Screenshot 02](./img/assign8image2.jpg)
+  ![Assignment 08 Screenshot 01](./image/assign8image1.jpg)
+  ![Assignment 08 Screenshot 02](./image/assign8image2.jpg)
