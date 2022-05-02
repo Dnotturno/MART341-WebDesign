@@ -1,0 +1,43 @@
+body {
+  background-color: #3498eb;
+  font-family: Didot;
+  text-align: center;
+
+}
+
+div {
+  border: 5px solid #3483eb;
+  display: inline-block;
+}
+
+img {
+  border-radius: 0%;
+  border: 1px solid #3483eb
+}
+
+.inspiration {
+  font-size: 20px;
+  background-color: #34c9eb;
+  height: 550px;
+  width: 800px;
+  padding: 10px;
+  display: inline-block
+}
+
+.contactus {
+  font-size: 20px;
+  background-color: #34c9eb;
+  height: 1150px;
+  width: 800px;
+  padding: 20px;
+  display: inline-block;
+}
+
+
+#title {
+  font-size: 30px;
+  background-color: #34c9eb;
+  color: #3483eb;
+  margin: auto;
+  padding: 20px;
+}
