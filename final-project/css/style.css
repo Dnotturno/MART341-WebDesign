@@ -1,13 +1,8 @@
 body {
   background-color: #3498eb;
-  font-family: Didot;
+  font-family: Poppins;
   text-align: center;
-
-}
-
-div {
-  border: 5px solid #3483eb;
-  display: inline-block;
+  padding-bottom: 2000px;
 }
 
 img {
@@ -15,29 +10,151 @@ img {
   border: 1px solid #3483eb
 }
 
-.inspiration {
-  font-size: 20px;
-  background-color: #34c9eb;
-  height: 550px;
-  width: 800px;
-  padding: 10px;
-  display: inline-block
+title {
+  text-align: center;
 }
 
-.contactus {
+#title {
+  font-size: 35px;
+  background-color: #34c9eb;
+  color: #3483eb;
+  margin-top: 2em;
+  padding: 0.25em;
+  text-align: center;
+}
+
+#title:hover {
+  letter-spacing: 0.25em;
+  color: #000000;
+}
+
+.header1 {
   font-size: 20px;
   background-color: #34c9eb;
-  height: 1150px;
-  width: 800px;
-  padding: 20px;
+  height: auto;
+  width: auto;
+  text-align: center;
+}
+
+.header1:hover {
+  text-decoration: underline;
+}
+
+.header1::first-line{
+  font-size: 100px;
+  font-family: 'Poppins-Bold';
+  line-height: 20px;
+}
+
+.header2 {
+  font-size: 25px;
+  background-color: #34c9eb;
+  height: auto;
+  width: auto;
+  text-align: center;
+  padding: 10px;
+}
+
+.header2::first-line{
+  font-size: 30px;
+  font-family: 'Poppins-Bold';
+  font-weight: 600;
+  line-height: 25px;
+}
+
+.header3 {
+  font-size: 15px;
+  background-color: white;
+  height: 100px;
+  width: auto;
+  text-align: center;
+  padding: 15px;
+}
+
+/* Menu */
+
+  header {
+    position: fixed;
+    background-color: black;
+    width: 99%;
+    height: 9em;
+    top: 0px;
+    font-family: Poppins;
+    text-align: right;
+  }
+
+/* Layout of the menu */
+
+.menu-item {
+  display: inline-block;
+  margin: 1.5em 1em .1em 0em;
+  background-color: white;
+  padding: 0.5em 1em;
+  border-radius: 1em;
+  min-width: 6em;
+  text-align: center;
+}
+
+.menu-item:hover {
+  background-color: #3498eb;
+  color: white;
+}
+
+/* Styling my links */
+.menu-item a {
+  color: black;
+  text-decoration: none;
+}
+
+/* Dropdown */
+.dropdown {
   display: inline-block;
 }
 
+.dropdown-content {
+  display: none;
+  position: absolute;
+  margin: 0.5em 0 0 -1em;
+  color: white;
+  background-color: #3498eb;
+  z-index: 1;
+  border-radius: 0em 0em 1em 1em;
+}
 
-#title {
-  font-size: 30px;
-  background-color: #34c9eb;
-  color: #3483eb;
-  margin: auto;
-  padding: 20px;
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-content a {
+  color: black;
+}
+
+/* Styling the dropdown item display */
+.dropdown-item {
+  display: block;
+  text-align left;
+  margin: 0;
+  padding: 0.5em 1em 0.5em 1em;
+  min-width: 6em;
+  background-color: white
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+  color: black;
+  background-color: #3498eb;
+}
+
+.dropdown:hover {
+  border-radius: 1em 1em 0em 0em;
+}
+
+/* Adding in the site name */
+.site-name {
+  color: white;
+  float: left;
+  min-width: 6em;
+  padding: 2 2;
+  letter-spacing: 0.2em;
+  font-weight: bold;
+  margin: 1.25em 1em;
 }
